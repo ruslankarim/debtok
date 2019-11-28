@@ -1,0 +1,40 @@
+{
+  "timeZone": "Europe/Moscow",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "Validate",
+      "libraryId": "1cSKx1KAh-6mceNNZIhM-Hv7mcmTGEJYoKKpakCc2SzND1UMf5wgYlOuo",
+      "version": "2",
+      "developmentMode": true
+    }, {
+      "userSymbol": "Logging",
+      "libraryId": "1BrMAhitFy-IVF1vl8IHgneAWcQwAazpp7cdHDJRUo35uIA55-haUhqyv",
+      "version": "1",
+      "developmentMode": true
+    }, {
+      "userSymbol": "Responses",
+      "libraryId": "1UC8lODA94553p9AkZc6IrhkR1qmJvWR37yHJ1aDrUbfonSTgbKb6AHUi",
+      "version": "3",
+      "developmentMode": true
+    }, {
+      "userSymbol": "Dadata",
+      "libraryId": "1fMI0l23-Js-yOw2KyMXkC7g7505RrSKc1dD7V2mDePYp-M8IqPsrg7YI",
+      "version": "2",
+      "developmentMode": true
+    }, {
+      "userSymbol": "FirestoreApp",
+      "libraryId": "1VUSl4b1r1eoNcRWotZM3e87ygkxvXltOgyDZhixqncz9lQ3MjfT1iKFw",
+      "version": "22"
+    }, {
+      "userSymbol": "underscoreGS",
+      "libraryId": "1yzaSmLB2aNXtKqIrSZ92SA4D14xPNdZOo3LQRH2Zc6DK6gHRpRK_StrT",
+      "version": "3"
+    }, {
+      "userSymbol": "CloudFunction",
+      "libraryId": "13wMQq-s9zbF5QBxoGrzW5I46De0rPgZXtr19TaMXKnoT8zbbMHdaybN6",
+      "version": "1",
+      "developmentMode": true
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
