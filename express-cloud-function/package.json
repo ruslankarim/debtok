@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "firebase-functions": "^3.3.0",
+    "firebase-functions": "^3.24.1",
     "petrovich": "^0.2.1",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
